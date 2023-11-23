@@ -1,1 +1,1 @@
-# Exercícios de JavaScript feitos em aula no Ensino Médio Senac.
+### Exercícios de JavaScript feitos em aula no Ensino Médio Senac.
